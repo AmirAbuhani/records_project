@@ -1,0 +1,14 @@
+17/03/2024 04:27:48 Insert Success
+17/03/2024 04:33:34 Delete Failure
+17/03/2024 04:49:49 PrintAll aeaty 20
+17/03/2024 04:49:49 PrintAll amy winehouse 1
+17/03/2024 04:49:49 PrintAll arctic monkeys 6
+17/03/2024 04:49:49 PrintAll beatles 3
+17/03/2024 04:49:49 PrintAll jeff buckley 2
+17/03/2024 04:49:49 PrintAll micheal jackson 40
+17/03/2024 04:49:49 PrintAll new_beatles 7
+17/03/2024 04:49:49 PrintAll pink floyd 30
+17/03/2024 04:49:49 PrintAll queen - greatest hits 4
+17/03/2024 05:48:47 PrintAmount 113
+17/03/2024 05:51:19 PrintAmount 113
+17/03/2024 05:55:18 Exit Success
